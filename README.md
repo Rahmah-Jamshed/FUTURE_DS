@@ -36,6 +36,6 @@ This repository contains two key projects focused on **business intelligence, da
 
 ## 📸 Dashboard Preview  
 
-![Sales Dashboard](![Sales Dashboard screenshot](https://github.com/user-attachments/assets/7ccb83e8-0128-4e6c-ac39-2a8f537f0771)
-)
+![Sales Dashboard]![Sales Dashboard screenshot](https://github.com/user-attachments/assets/7ccb83e8-0128-4e6c-ac39-2a8f537f0771)
+
 
