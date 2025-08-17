@@ -34,4 +34,8 @@ This repository contains two key projects focused on **business intelligence, da
 - Provides **actionable insights** into customer engagement & conversions  
 - Demonstrates **end-to-end data analysis workflow** for real-world scenarios  
 
+## 📸 Dashboard Preview  
+
+![Sales Dashboard](![Sales Dashboard screenshot](https://github.com/user-attachments/assets/7ccb83e8-0128-4e6c-ac39-2a8f537f0771)
+)
 
